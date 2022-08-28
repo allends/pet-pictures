@@ -1,0 +1,18 @@
+.petImage {
+  width: 20rem;
+  height: 15rem;
+  object-fit: cover;
+}
+
+.card {
+  width: min-content;
+  height: min-content;
+  border-style: solid;
+}
+
+.cardSelected {
+  width: min-content;
+  height: min-content;
+  border-style: solid;
+  border-color: #77B5FE;
+}
